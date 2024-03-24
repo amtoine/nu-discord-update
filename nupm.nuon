@@ -1,0 +1,9 @@
+{
+    name: "nu-discord-update"
+    version: 0.1.0
+    description: "A Nushell script to update the Discord client manually."
+    documentation: "https://github.com/amtoine/nu-discord-update/blob/main/README.md"
+    maintainers: [@amtoine]
+    license: "https://github.com/amtoine/nu-discord-update/blob/main/LICENSE"
+    type: "script"
+}
